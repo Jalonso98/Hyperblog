@@ -1,0 +1,6 @@
+
+#quito las imagenes excepto el logo
+/imagenes/*
+!/imagenes/dragon.png
+
+
