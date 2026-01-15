@@ -1,7 +1,7 @@
 # Hyperblog 💚
 Un blog de ejemplo de la clase de Git y Github de [Platzi](https://platzi.com/ "Platzi").
 >El curso de Platzi que me permitirá gestionar mi proyecto para residencias profesionales y titulación de Ingeniería en Sistemas Computacionales.
-> - Alonso 
+> - Alonso J
 
 En este curso vemos de todo:
 * Todos los comandos de Git
